@@ -4,3 +4,4 @@
 
 - Initial release
 - chore: add a note about the defaults
+- fix: add a note about the defaults
