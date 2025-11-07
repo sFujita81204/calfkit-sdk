@@ -1,6 +1,6 @@
 {
   "name": "calfkit-sdk",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "\ud83d\udc2e Build distributed, event-driven agents",
   "main": "src/index.js",
   "scripts": {
